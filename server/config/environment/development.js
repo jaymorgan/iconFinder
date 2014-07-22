@@ -8,5 +8,5 @@ module.exports = {
     uri: 'mongodb://localhost/iconfinder-dev'
   },
 
-  seedDB: true
+  seedDB: false
 };
