@@ -1,7 +1,7 @@
 'use strict';
 
 var _ = require('lodash');
-var Iconcategory = require('./IconCategory.model');
+var Iconcategory = require('./iconcategory.model');
 
 // Get list of IconCategorys
 exports.index = function(req, res) {

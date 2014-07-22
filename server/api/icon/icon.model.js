@@ -9,6 +9,7 @@ var IconSchema = new Schema({
   class: String,
   unicode: String,
   active: Boolean,
+  category: String,
   tags: { type: [String], index: true }
 });
 

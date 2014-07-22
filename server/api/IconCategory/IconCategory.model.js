@@ -5,8 +5,8 @@ var mongoose = require('mongoose'),
 
 var IconcategorySchema = new Schema({
   name: String,
-  info: String,
-  active: Boolean
+  category: String,
+  active: { type: Boolean, default: true }
 });
 
 module.exports = mongoose.model('Iconcategory', IconcategorySchema);
