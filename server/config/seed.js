@@ -7,6 +7,18 @@
 
 var Thing = require('../api/thing/thing.model');
 var User = require('../api/user/user.model');
+var Icon = require('../api/icon/icon.model');
+var iconList = require('./icon_list.json');
+var cats = require('./icon_categories.json');
+
+Icon.create(
+  iconList,
+  function(err) {
+
+    if (err) {
+      return done(err);
+    }
+  });
 
 Thing.find({}).remove(function() {
   Thing.create({

@@ -18,6 +18,7 @@ function onConnect(socket) {
   });
 
   // Insert sockets below
+  require('../api/IconCategory/IconCategory.socket').register(socket);
   require('../api/icon/icon.socket').register(socket);
   require('../api/thing/thing.socket').register(socket);
 }

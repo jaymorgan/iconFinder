@@ -2,3522 +2,3502 @@
   {
     "char": "",
     "class": "fa-adjust",
-    "unicode": "[&#xf042;]",
+    "unicode": "&#xf042;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-adn",
-    "unicode": "[&#xf170;]",
+    "unicode": "&#xf170;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-align-center",
-    "unicode": "[&#xf037;]",
+    "unicode": "&#xf037;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-align-justify",
-    "unicode": "[&#xf039;]",
+    "unicode": "&#xf039;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-align-left",
-    "unicode": "[&#xf036;]",
+    "unicode": "&#xf036;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-align-right",
-    "unicode": "[&#xf038;]",
+    "unicode": "&#xf038;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-ambulance",
-    "unicode": "[&#xf0f9;]",
+    "unicode": "&#xf0f9;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-anchor",
-    "unicode": "[&#xf13d;]",
+    "unicode": "&#xf13d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-android",
-    "unicode": "[&#xf17b;]",
+    "unicode": "&#xf17b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-angle-double-down",
-    "unicode": "[&#xf103;]",
+    "unicode": "&#xf103;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-double-left",
-    "unicode": "[&#xf100;]",
+    "unicode": "&#xf100;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-double-right",
-    "unicode": "[&#xf101;]",
+    "unicode": "&#xf101;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-double-up",
-    "unicode": "[&#xf102;]",
+    "unicode": "&#xf102;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-down",
-    "unicode": "[&#xf107;]",
+    "unicode": "&#xf107;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-left",
-    "unicode": "[&#xf104;]",
+    "unicode": "&#xf104;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-right",
-    "unicode": "[&#xf105;]",
+    "unicode": "&#xf105;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-angle-up",
-    "unicode": "[&#xf106;]",
+    "unicode": "&#xf106;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-apple",
-    "unicode": "[&#xf179;]",
+    "unicode": "&#xf179;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-archive",
-    "unicode": "[&#xf187;]",
+    "unicode": "&#xf187;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-down",
-    "unicode": "[&#xf0ab;]",
+    "unicode": "&#xf0ab;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-left",
-    "unicode": "[&#xf0a8;]",
+    "unicode": "&#xf0a8;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-o-down",
-    "unicode": "[&#xf01a;]",
+    "unicode": "&#xf01a;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-o-left",
-    "unicode": "[&#xf190;]",
+    "unicode": "&#xf190;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-o-right",
-    "unicode": "[&#xf18e;]",
+    "unicode": "&#xf18e;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-o-up",
-    "unicode": "[&#xf01b;]",
+    "unicode": "&#xf01b;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-right",
-    "unicode": "[&#xf0a9;]",
+    "unicode": "&#xf0a9;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-circle-up",
-    "unicode": "[&#xf0aa;]",
+    "unicode": "&#xf0aa;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-down",
-    "unicode": "[&#xf063;]",
+    "unicode": "&#xf063;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-left",
-    "unicode": "[&#xf060;]",
+    "unicode": "&#xf060;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-right",
-    "unicode": "[&#xf061;]",
+    "unicode": "&#xf061;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrow-up",
-    "unicode": "[&#xf062;]",
+    "unicode": "&#xf062;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrows",
-    "unicode": "[&#xf047;]",
+    "unicode": "&#xf047;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-arrows-alt",
-    "unicode": "[&#xf0b2;]",
+    "unicode": "&#xf0b2;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-arrows-h",
-    "unicode": "[&#xf07e;]",
+    "unicode": "&#xf07e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-arrows-v",
-    "unicode": "[&#xf07d;]",
+    "unicode": "&#xf07d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-asterisk",
-    "unicode": "[&#xf069;]",
+    "unicode": "&#xf069;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-automobile",
-    "unicode": "[&#xf1b9;]",
+    "unicode": "&#xf1b9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-backward",
-    "unicode": "[&#xf04a;]",
+    "unicode": "&#xf04a;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-ban",
-    "unicode": "[&#xf05e;]",
+    "unicode": "&#xf05e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bank",
-    "unicode": "[&#xf19c;]",
+    "unicode": "&#xf19c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bar-chart-o",
-    "unicode": "[&#xf080;]",
+    "unicode": "&#xf080;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-barcode",
-    "unicode": "[&#xf02a;]",
+    "unicode": "&#xf02a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bars",
-    "unicode": "[&#xf0c9;]",
+    "unicode": "&#xf0c9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-beer",
-    "unicode": "[&#xf0fc;]",
+    "unicode": "&#xf0fc;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-behance",
-    "unicode": "[&#xf1b4;]",
+    "unicode": "&#xf1b4;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-behance-square",
-    "unicode": "[&#xf1b5;]",
+    "unicode": "&#xf1b5;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-bell",
-    "unicode": "[&#xf0f3;]",
+    "unicode": "&#xf0f3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bell-o",
-    "unicode": "[&#xf0a2;]",
+    "unicode": "&#xf0a2;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bitbucket",
-    "unicode": "[&#xf171;]",
+    "unicode": "&#xf171;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-bitbucket-square",
-    "unicode": "[&#xf172;]",
+    "unicode": "&#xf172;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-bitcoin",
-    "unicode": "[&#xf15a;]",
+    "unicode": "&#xf15a;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-bold",
-    "unicode": "[&#xf032;]",
+    "unicode": "&#xf032;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-bolt",
-    "unicode": "[&#xf0e7;]",
+    "unicode": "&#xf0e7;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bomb",
-    "unicode": "[&#xf1e2;]",
+    "unicode": "&#xf1e2;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-book",
-    "unicode": "[&#xf02d;]",
+    "unicode": "&#xf02d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bookmark",
-    "unicode": "[&#xf02e;]",
+    "unicode": "&#xf02e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bookmark-o",
-    "unicode": "[&#xf097;]",
+    "unicode": "&#xf097;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-briefcase",
-    "unicode": "[&#xf0b1;]",
+    "unicode": "&#xf0b1;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-btc",
-    "unicode": "[&#xf15a;]",
+    "unicode": "&#xf15a;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-bug",
-    "unicode": "[&#xf188;]",
+    "unicode": "&#xf188;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-building",
-    "unicode": "[&#xf1ad;]",
+    "unicode": "&#xf1ad;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-building-o",
-    "unicode": "[&#xf0f7;]",
+    "unicode": "&#xf0f7;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bullhorn",
-    "unicode": "[&#xf0a1;]",
+    "unicode": "&#xf0a1;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-bullseye",
-    "unicode": "[&#xf140;]",
+    "unicode": "&#xf140;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cab",
-    "unicode": "[&#xf1ba;]",
+    "unicode": "&#xf1ba;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-calendar",
-    "unicode": "[&#xf073;]",
+    "unicode": "&#xf073;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-calendar-o",
-    "unicode": "[&#xf133;]",
+    "unicode": "&#xf133;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-camera",
-    "unicode": "[&#xf030;]",
+    "unicode": "&#xf030;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-camera-retro",
-    "unicode": "[&#xf083;]",
+    "unicode": "&#xf083;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-car",
-    "unicode": "[&#xf1b9;]",
+    "unicode": "&#xf1b9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-caret-down",
-    "unicode": "[&#xf0d7;]",
+    "unicode": "&#xf0d7;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-left",
-    "unicode": "[&#xf0d9;]",
+    "unicode": "&#xf0d9;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-right",
-    "unicode": "[&#xf0da;]",
+    "unicode": "&#xf0da;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-square-o-down",
-    "unicode": "[&#xf150;]",
+    "unicode": "&#xf150;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-square-o-left",
-    "unicode": "[&#xf191;]",
+    "unicode": "&#xf191;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-square-o-right",
-    "unicode": "[&#xf152;]",
+    "unicode": "&#xf152;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-square-o-up",
-    "unicode": "[&#xf151;]",
+    "unicode": "&#xf151;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-caret-up",
-    "unicode": "[&#xf0d8;]",
+    "unicode": "&#xf0d8;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-certificate",
-    "unicode": "[&#xf0a3;]",
+    "unicode": "&#xf0a3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-chain",
-    "unicode": "[&#xf0c1;]",
+    "unicode": "&#xf0c1;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-chain-broken",
-    "unicode": "[&#xf127;]",
+    "unicode": "&#xf127;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-check",
-    "unicode": "[&#xf00c;]",
+    "unicode": "&#xf00c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-check-circle",
-    "unicode": "[&#xf058;]",
+    "unicode": "&#xf058;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-check-circle-o",
-    "unicode": "[&#xf05d;]",
+    "unicode": "&#xf05d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-check-square",
-    "unicode": "[&#xf14a;]",
+    "unicode": "&#xf14a;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-check-square-o",
-    "unicode": "[&#xf046;]",
+    "unicode": "&#xf046;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-chevron-circle-down",
-    "unicode": "[&#xf13a;]",
+    "unicode": "&#xf13a;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-circle-left",
-    "unicode": "[&#xf137;]",
+    "unicode": "&#xf137;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-circle-right",
-    "unicode": "[&#xf138;]",
+    "unicode": "&#xf138;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-circle-up",
-    "unicode": "[&#xf139;]",
+    "unicode": "&#xf139;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-down",
-    "unicode": "[&#xf078;]",
+    "unicode": "&#xf078;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-left",
-    "unicode": "[&#xf053;]",
+    "unicode": "&#xf053;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-right",
-    "unicode": "[&#xf054;]",
+    "unicode": "&#xf054;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-chevron-up",
-    "unicode": "[&#xf077;]",
+    "unicode": "&#xf077;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-child",
-    "unicode": "[&#xf1ae;]",
+    "unicode": "&#xf1ae;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-circle",
-    "unicode": "[&#xf111;]",
+    "unicode": "&#xf111;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-circle-o",
-    "unicode": "[&#xf10c;]",
+    "unicode": "&#xf10c;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-circle-o-notch",
-    "unicode": "[&#xf1ce;]",
+    "unicode": "&#xf1ce;",
     "active": true,
-    "category": "x"
+    "category": "WebApp",
+    "tags": [
+      "Spinner"
+    ]
   },
   {
     "char": "",
     "class": "fa-circle-thin",
-    "unicode": "[&#xf1db;]",
+    "unicode": "&#xf1db;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-clipboard",
-    "unicode": "[&#xf0ea;]",
+    "unicode": "&#xf0ea;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-clock-o",
-    "unicode": "[&#xf017;]",
+    "unicode": "&#xf017;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cloud",
-    "unicode": "[&#xf0c2;]",
+    "unicode": "&#xf0c2;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cloud-download",
-    "unicode": "[&#xf0ed;]",
+    "unicode": "&#xf0ed;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cloud-upload",
-    "unicode": "[&#xf0ee;]",
+    "unicode": "&#xf0ee;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cny",
-    "unicode": "[&#xf157;]",
+    "unicode": "&#xf157;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-code",
-    "unicode": "[&#xf121;]",
+    "unicode": "&#xf121;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-code-fork",
-    "unicode": "[&#xf126;]",
+    "unicode": "&#xf126;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-codepen",
-    "unicode": "[&#xf1cb;]",
+    "unicode": "&#xf1cb;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-coffee",
-    "unicode": "[&#xf0f4;]",
+    "unicode": "&#xf0f4;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cog",
-    "unicode": "[&#xf013;]",
+    "unicode": "&#xf013;",
     "active": true,
-    "category": "x"
+    "category": "WebApp",
+    "tags": [
+      "Spinner"
+    ]
   },
   {
     "char": "",
     "class": "fa-cogs",
-    "unicode": "[&#xf085;]",
+    "unicode": "&#xf085;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-columns",
-    "unicode": "[&#xf0db;]",
+    "unicode": "&#xf0db;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-comment",
-    "unicode": "[&#xf075;]",
+    "unicode": "&#xf075;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-comment-o",
-    "unicode": "[&#xf0e5;]",
+    "unicode": "&#xf0e5;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-comments",
-    "unicode": "[&#xf086;]",
+    "unicode": "&#xf086;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-comments-o",
-    "unicode": "[&#xf0e6;]",
+    "unicode": "&#xf0e6;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-compass",
-    "unicode": "[&#xf14e;]",
+    "unicode": "&#xf14e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-compress",
-    "unicode": "[&#xf066;]",
+    "unicode": "&#xf066;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-copy",
-    "unicode": "[&#xf0c5;]",
+    "unicode": "&#xf0c5;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-credit-card",
-    "unicode": "[&#xf09d;]",
+    "unicode": "&#xf09d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-crop",
-    "unicode": "[&#xf125;]",
+    "unicode": "&#xf125;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-crosshairs",
-    "unicode": "[&#xf05b;]",
+    "unicode": "&#xf05b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-css3",
-    "unicode": "[&#xf13c;]",
+    "unicode": "&#xf13c;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-cube",
-    "unicode": "[&#xf1b2;]",
+    "unicode": "&#xf1b2;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cubes",
-    "unicode": "[&#xf1b3;]",
+    "unicode": "&#xf1b3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-cut",
-    "unicode": "[&#xf0c4;]",
+    "unicode": "&#xf0c4;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-cutlery",
-    "unicode": "[&#xf0f5;]",
+    "unicode": "&#xf0f5;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-dashboard",
-    "unicode": "[&#xf0e4;]",
+    "unicode": "&#xf0e4;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-database",
-    "unicode": "[&#xf1c0;]",
+    "unicode": "&#xf1c0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-dedent",
-    "unicode": "[&#xf03b;]",
+    "unicode": "&#xf03b;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-delicious",
-    "unicode": "[&#xf1a5;]",
+    "unicode": "&#xf1a5;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-desktop",
-    "unicode": "[&#xf108;]",
+    "unicode": "&#xf108;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-deviantart",
-    "unicode": "[&#xf1bd;]",
+    "unicode": "&#xf1bd;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-digg",
-    "unicode": "[&#xf1a6;]",
+    "unicode": "&#xf1a6;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-dollar",
-    "unicode": "[&#xf155;]",
+    "unicode": "&#xf155;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-dot-circle-o",
-    "unicode": "[&#xf192;]",
+    "unicode": "&#xf192;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-download",
-    "unicode": "[&#xf019;]",
+    "unicode": "&#xf019;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-dribbble",
-    "unicode": "[&#xf17d;]",
+    "unicode": "&#xf17d;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-dropbox",
-    "unicode": "[&#xf16b;]",
+    "unicode": "&#xf16b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-drupal",
-    "unicode": "[&#xf1a9;]",
+    "unicode": "&#xf1a9;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-edit",
-    "unicode": "[&#xf044;]",
+    "unicode": "&#xf044;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-eject",
-    "unicode": "[&#xf052;]",
+    "unicode": "&#xf052;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-ellipsis-h",
-    "unicode": "[&#xf141;]",
+    "unicode": "&#xf141;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-ellipsis-v",
-    "unicode": "[&#xf142;]",
+    "unicode": "&#xf142;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-empire",
-    "unicode": "[&#xf1d1;]",
+    "unicode": "&#xf1d1;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-envelope",
-    "unicode": "[&#xf0e0;]",
+    "unicode": "&#xf0e0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-envelope-o",
-    "unicode": "[&#xf003;]",
+    "unicode": "&#xf003;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-envelope-square",
-    "unicode": "[&#xf199;]",
+    "unicode": "&#xf199;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-eraser",
-    "unicode": "[&#xf12d;]",
+    "unicode": "&#xf12d;",
     "active": true,
-    "category": "x"
-  },
-  {
-    "char": "",
-    "class": "fa-eur",
-    "unicode": "[&#xf153;]",
-    "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-euro",
-    "unicode": "[&#xf153;]",
+    "unicode": "&#xf153;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-exchange",
-    "unicode": "[&#xf0ec;]",
+    "unicode": "&#xf0ec;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-exclamation",
-    "unicode": "[&#xf12a;]",
+    "unicode": "&#xf12a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-exclamation-circle",
-    "unicode": "[&#xf06a;]",
+    "unicode": "&#xf06a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-exclamation-triangle",
-    "unicode": "[&#xf071;]",
+    "unicode": "&#xf071;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-expand",
-    "unicode": "[&#xf065;]",
+    "unicode": "&#xf065;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-external-link",
-    "unicode": "[&#xf08e;]",
+    "unicode": "&#xf08e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-external-link-square",
-    "unicode": "[&#xf14c;]",
+    "unicode": "&#xf14c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-eye",
-    "unicode": "[&#xf06e;]",
+    "unicode": "&#xf06e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-eye-slash",
-    "unicode": "[&#xf070;]",
+    "unicode": "&#xf070;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-facebook",
-    "unicode": "[&#xf09a;]",
+    "unicode": "&#xf09a;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-facebook-square",
-    "unicode": "[&#xf082;]",
+    "unicode": "&#xf082;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-fast-backward",
-    "unicode": "[&#xf049;]",
+    "unicode": "&#xf049;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-fast-forward",
-    "unicode": "[&#xf050;]",
+    "unicode": "&#xf050;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-fax",
-    "unicode": "[&#xf1ac;]",
+    "unicode": "&#xf1ac;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-female",
-    "unicode": "[&#xf182;]",
+    "unicode": "&#xf182;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-fighter-jet",
-    "unicode": "[&#xf0fb;]",
+    "unicode": "&#xf0fb;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-file",
-    "unicode": "[&#xf15b;]",
+    "unicode": "&#xf15b;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-archive-o",
-    "unicode": "[&#xf1c6;]",
+    "unicode": "&#xf1c6;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-audio-o",
-    "unicode": "[&#xf1c7;]",
+    "unicode": "&#xf1c7;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-code-o",
-    "unicode": "[&#xf1c9;]",
+    "unicode": "&#xf1c9;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-excel-o",
-    "unicode": "[&#xf1c3;]",
+    "unicode": "&#xf1c3;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-image-o",
-    "unicode": "[&#xf1c5;]",
+    "unicode": "&#xf1c5;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-movie-o",
-    "unicode": "[&#xf1c8;]",
+    "unicode": "&#xf1c8;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-o",
-    "unicode": "[&#xf016;]",
+    "unicode": "&#xf016;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-pdf-o",
-    "unicode": "[&#xf1c1;]",
+    "unicode": "&#xf1c1;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-photo-o",
-    "unicode": "[&#xf1c5;]",
+    "unicode": "&#xf1c5;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-picture-o",
-    "unicode": "[&#xf1c5;]",
+    "unicode": "&#xf1c5;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-powerpoint-o",
-    "unicode": "[&#xf1c4;]",
+    "unicode": "&#xf1c4;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-sound-o",
-    "unicode": "[&#xf1c7;]",
+    "unicode": "&#xf1c7;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-text",
-    "unicode": "[&#xf15c;]",
+    "unicode": "&#xf15c;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-text-o",
-    "unicode": "[&#xf0f6;]",
+    "unicode": "&#xf0f6;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-video-o",
-    "unicode": "[&#xf1c8;]",
+    "unicode": "&#xf1c8;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-word-o",
-    "unicode": "[&#xf1c2;]",
+    "unicode": "&#xf1c2;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-file-zip-o",
-    "unicode": "[&#xf1c6;]",
+    "unicode": "&#xf1c6;",
     "active": true,
-    "category": "x"
+    "category": "FileType"
   },
   {
     "char": "",
     "class": "fa-files-o",
-    "unicode": "[&#xf0c5;]",
+    "unicode": "&#xf0c5;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-film",
-    "unicode": "[&#xf008;]",
+    "unicode": "&#xf008;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-filter",
-    "unicode": "[&#xf0b0;]",
+    "unicode": "&#xf0b0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-fire",
-    "unicode": "[&#xf06d;]",
+    "unicode": "&#xf06d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-fire-extinguisher",
-    "unicode": "[&#xf134;]",
+    "unicode": "&#xf134;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flag",
-    "unicode": "[&#xf024;]",
+    "unicode": "&#xf024;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flag-checkered",
-    "unicode": "[&#xf11e;]",
+    "unicode": "&#xf11e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flag-o",
-    "unicode": "[&#xf11d;]",
+    "unicode": "&#xf11d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flash",
-    "unicode": "[&#xf0e7;]",
+    "unicode": "&#xf0e7;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flask",
-    "unicode": "[&#xf0c3;]",
+    "unicode": "&#xf0c3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-flickr",
-    "unicode": "[&#xf16e;]",
+    "unicode": "&#xf16e;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-floppy-o",
-    "unicode": "[&#xf0c7;]",
+    "unicode": "&#xf0c7;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-folder",
-    "unicode": "[&#xf07b;]",
+    "unicode": "&#xf07b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-folder-o",
-    "unicode": "[&#xf114;]",
+    "unicode": "&#xf114;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-folder-open",
-    "unicode": "[&#xf07c;]",
+    "unicode": "&#xf07c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-folder-open-o",
-    "unicode": "[&#xf115;]",
+    "unicode": "&#xf115;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-font",
-    "unicode": "[&#xf031;]",
+    "unicode": "&#xf031;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-forward",
-    "unicode": "[&#xf04e;]",
+    "unicode": "&#xf04e;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-foursquare",
-    "unicode": "[&#xf180;]",
+    "unicode": "&#xf180;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-frown-o",
-    "unicode": "[&#xf119;]",
+    "unicode": "&#xf119;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-gamepad",
-    "unicode": "[&#xf11b;]",
+    "unicode": "&#xf11b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-gavel",
-    "unicode": "[&#xf0e3;]",
+    "unicode": "&#xf0e3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-gbp",
-    "unicode": "[&#xf154;]",
+    "unicode": "&#xf154;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-ge",
-    "unicode": "[&#xf1d1;]",
+    "unicode": "&#xf1d1;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-gear",
-    "unicode": "[&#xf013;]",
+    "unicode": "&#xf013;",
     "active": true,
-    "category": "x"
+    "category": "WebApp",
+    "tags": [
+      "Spinner"
+    ]
   },
   {
     "char": "",
     "class": "fa-gears",
-    "unicode": "[&#xf085;]",
+    "unicode": "&#xf085;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-gift",
-    "unicode": "[&#xf06b;]",
+    "unicode": "&#xf06b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-git",
-    "unicode": "[&#xf1d3;]",
+    "unicode": "&#xf1d3;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-git-square",
-    "unicode": "[&#xf1d2;]",
+    "unicode": "&#xf1d2;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-github",
-    "unicode": "[&#xf09b;]",
+    "unicode": "&#xf09b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-github-alt",
-    "unicode": "[&#xf113;]",
+    "unicode": "&#xf113;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-github-square",
-    "unicode": "[&#xf092;]",
+    "unicode": "&#xf092;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-gittip",
-    "unicode": "[&#xf184;]",
+    "unicode": "&#xf184;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-glass",
-    "unicode": "[&#xf000;]",
+    "unicode": "&#xf000;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-globe",
-    "unicode": "[&#xf0ac;]",
+    "unicode": "&#xf0ac;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-google",
-    "unicode": "[&#xf1a0;]",
+    "unicode": "&#xf1a0;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-google-plus",
-    "unicode": "[&#xf0d5;]",
+    "unicode": "&#xf0d5;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-google-plus-square",
-    "unicode": "[&#xf0d4;]",
+    "unicode": "&#xf0d4;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-graduation-cap",
-    "unicode": "[&#xf19d;]",
+    "unicode": "&#xf19d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-group",
-    "unicode": "[&#xf0c0;]",
+    "unicode": "&#xf0c0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-h-square",
-    "unicode": "[&#xf0fd;]",
+    "unicode": "&#xf0fd;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-hacker-news",
-    "unicode": "[&#xf1d4;]",
+    "unicode": "&#xf1d4;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-hand-o-down",
-    "unicode": "[&#xf0a7;]",
+    "unicode": "&#xf0a7;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-hand-o-left",
-    "unicode": "[&#xf0a5;]",
+    "unicode": "&#xf0a5;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-hand-o-right",
-    "unicode": "[&#xf0a4;]",
+    "unicode": "&#xf0a4;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-hand-o-up",
-    "unicode": "[&#xf0a6;]",
+    "unicode": "&#xf0a6;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-hdd-o",
-    "unicode": "[&#xf0a0;]",
+    "unicode": "&#xf0a0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-header",
-    "unicode": "[&#xf1dc;]",
+    "unicode": "&#xf1dc;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-headphones",
-    "unicode": "[&#xf025;]",
+    "unicode": "&#xf025;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-heart",
-    "unicode": "[&#xf004;]",
+    "unicode": "&#xf004;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-heart-o",
-    "unicode": "[&#xf08a;]",
+    "unicode": "&#xf08a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-history",
-    "unicode": "[&#xf1da;]",
+    "unicode": "&#xf1da;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-home",
-    "unicode": "[&#xf015;]",
+    "unicode": "&#xf015;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-hospital-o",
-    "unicode": "[&#xf0f8;]",
+    "unicode": "&#xf0f8;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-html5",
-    "unicode": "[&#xf13b;]",
+    "unicode": "&#xf13b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-image",
-    "unicode": "[&#xf03e;]",
+    "unicode": "&#xf03e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-inbox",
-    "unicode": "[&#xf01c;]",
+    "unicode": "&#xf01c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-indent",
-    "unicode": "[&#xf03c;]",
+    "unicode": "&#xf03c;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-info",
-    "unicode": "[&#xf129;]",
+    "unicode": "&#xf129;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-info-circle",
-    "unicode": "[&#xf05a;]",
+    "unicode": "&#xf05a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-inr",
-    "unicode": "[&#xf156;]",
+    "unicode": "&#xf156;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-instagram",
-    "unicode": "[&#xf16d;]",
+    "unicode": "&#xf16d;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-institution",
-    "unicode": "[&#xf19c;]",
+    "unicode": "&#xf19c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-italic",
-    "unicode": "[&#xf033;]",
+    "unicode": "&#xf033;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-joomla",
-    "unicode": "[&#xf1aa;]",
+    "unicode": "&#xf1aa;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-jpy",
-    "unicode": "[&#xf157;]",
+    "unicode": "&#xf157;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-jsfiddle",
-    "unicode": "[&#xf1cc;]",
+    "unicode": "&#xf1cc;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-key",
-    "unicode": "[&#xf084;]",
+    "unicode": "&#xf084;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-keyboard-o",
-    "unicode": "[&#xf11c;]",
+    "unicode": "&#xf11c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-krw",
-    "unicode": "[&#xf159;]",
+    "unicode": "&#xf159;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-language",
-    "unicode": "[&#xf1ab;]",
+    "unicode": "&#xf1ab;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-laptop",
-    "unicode": "[&#xf109;]",
+    "unicode": "&#xf109;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-leaf",
-    "unicode": "[&#xf06c;]",
+    "unicode": "&#xf06c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-legal",
-    "unicode": "[&#xf0e3;]",
+    "unicode": "&#xf0e3;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-lemon-o",
-    "unicode": "[&#xf094;]",
+    "unicode": "&#xf094;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-level-down",
-    "unicode": "[&#xf149;]",
+    "unicode": "&#xf149;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-level-up",
-    "unicode": "[&#xf148;]",
+    "unicode": "&#xf148;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-life-bouy",
-    "unicode": "[&#xf1cd;]",
+    "unicode": "&#xf1cd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-life-ring",
-    "unicode": "[&#xf1cd;]",
+    "unicode": "&#xf1cd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-life-saver",
-    "unicode": "[&#xf1cd;]",
+    "unicode": "&#xf1cd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-lightbulb-o",
-    "unicode": "[&#xf0eb;]",
+    "unicode": "&#xf0eb;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-link",
-    "unicode": "[&#xf0c1;]",
+    "unicode": "&#xf0c1;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-linkedin",
-    "unicode": "[&#xf0e1;]",
+    "unicode": "&#xf0e1;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-linkedin-square",
-    "unicode": "[&#xf08c;]",
+    "unicode": "&#xf08c;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-linux",
-    "unicode": "[&#xf17c;]",
+    "unicode": "&#xf17c;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-list",
-    "unicode": "[&#xf03a;]",
+    "unicode": "&#xf03a;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-list-alt",
-    "unicode": "[&#xf022;]",
+    "unicode": "&#xf022;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-list-ol",
-    "unicode": "[&#xf0cb;]",
+    "unicode": "&#xf0cb;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-list-ul",
-    "unicode": "[&#xf0ca;]",
+    "unicode": "&#xf0ca;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-location-arrow",
-    "unicode": "[&#xf124;]",
+    "unicode": "&#xf124;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-lock",
-    "unicode": "[&#xf023;]",
+    "unicode": "&#xf023;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-long-arrow-down",
-    "unicode": "[&#xf175;]",
+    "unicode": "&#xf175;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-long-arrow-left",
-    "unicode": "[&#xf177;]",
+    "unicode": "&#xf177;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-long-arrow-right",
-    "unicode": "[&#xf178;]",
+    "unicode": "&#xf178;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-long-arrow-up",
-    "unicode": "[&#xf176;]",
+    "unicode": "&#xf176;",
     "active": true,
-    "category": "x"
+    "category": "Directional"
   },
   {
     "char": "",
     "class": "fa-magic",
-    "unicode": "[&#xf0d0;]",
+    "unicode": "&#xf0d0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-magnet",
-    "unicode": "[&#xf076;]",
+    "unicode": "&#xf076;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-mail-forward",
-    "unicode": "[&#xf064;]",
+    "unicode": "&#xf064;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-mail-reply",
-    "unicode": "[&#xf112;]",
+    "unicode": "&#xf112;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-mail-reply-all",
-    "unicode": "[&#xf122;]",
+    "unicode": "&#xf122;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-male",
-    "unicode": "[&#xf183;]",
+    "unicode": "&#xf183;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-map-marker",
-    "unicode": "[&#xf041;]",
+    "unicode": "&#xf041;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-maxcdn",
-    "unicode": "[&#xf136;]",
+    "unicode": "&#xf136;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-medkit",
-    "unicode": "[&#xf0fa;]",
+    "unicode": "&#xf0fa;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-meh-o",
-    "unicode": "[&#xf11a;]",
+    "unicode": "&#xf11a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-microphone",
-    "unicode": "[&#xf130;]",
+    "unicode": "&#xf130;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-microphone-slash",
-    "unicode": "[&#xf131;]",
+    "unicode": "&#xf131;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-minus",
-    "unicode": "[&#xf068;]",
+    "unicode": "&#xf068;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-minus-circle",
-    "unicode": "[&#xf056;]",
+    "unicode": "&#xf056;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-minus-square",
-    "unicode": "[&#xf146;]",
+    "unicode": "&#xf146;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-minus-square-o",
-    "unicode": "[&#xf147;]",
+    "unicode": "&#xf147;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-mobile",
-    "unicode": "[&#xf10b;]",
+    "unicode": "&#xf10b;",
     "active": true,
-    "category": "x"
-  },
-  {
-    "char": "",
-    "class": "fa-mobile-phone",
-    "unicode": "[&#xf10b;]",
-    "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-money",
-    "unicode": "[&#xf0d6;]",
+    "unicode": "&#xf0d6;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-moon-o",
-    "unicode": "[&#xf186;]",
+    "unicode": "&#xf186;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-mortar-board",
-    "unicode": "[&#xf19d;]",
+    "unicode": "&#xf19d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-music",
-    "unicode": "[&#xf001;]",
+    "unicode": "&#xf001;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-navicon",
-    "unicode": "[&#xf0c9;]",
+    "unicode": "&#xf0c9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-openid",
-    "unicode": "[&#xf19b;]",
+    "unicode": "&#xf19b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-outdent",
-    "unicode": "[&#xf03b;]",
+    "unicode": "&#xf03b;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-pagelines",
-    "unicode": "[&#xf18c;]",
+    "unicode": "&#xf18c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-paper-plane",
-    "unicode": "[&#xf1d8;]",
+    "unicode": "&#xf1d8;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-paper-plane-o",
-    "unicode": "[&#xf1d9;]",
+    "unicode": "&#xf1d9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-paperclip",
-    "unicode": "[&#xf0c6;]",
+    "unicode": "&#xf0c6;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-paragraph",
-    "unicode": "[&#xf1dd;]",
+    "unicode": "&#xf1dd;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-paste",
-    "unicode": "[&#xf0ea;]",
+    "unicode": "&#xf0ea;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-pause",
-    "unicode": "[&#xf04c;]",
+    "unicode": "&#xf04c;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-paw",
-    "unicode": "[&#xf1b0;]",
+    "unicode": "&#xf1b0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-pencil",
-    "unicode": "[&#xf040;]",
+    "unicode": "&#xf040;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-pencil-square",
-    "unicode": "[&#xf14b;]",
+    "unicode": "&#xf14b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-pencil-square-o",
-    "unicode": "[&#xf044;]",
+    "unicode": "&#xf044;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-phone",
-    "unicode": "[&#xf095;]",
+    "unicode": "&#xf095;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-phone-square",
-    "unicode": "[&#xf098;]",
+    "unicode": "&#xf098;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-photo",
-    "unicode": "[&#xf03e;]",
+    "unicode": "&#xf03e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-picture-o",
-    "unicode": "[&#xf03e;]",
+    "unicode": "&#xf03e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-pied-piper",
-    "unicode": "[&#xf1a7;]",
+    "unicode": "&#xf1a7;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-pied-piper-alt",
-    "unicode": "[&#xf1a8;]",
+    "unicode": "&#xf1a8;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-pied-piper-square",
-    "unicode": "[&#xf1a7;]",
+    "unicode": "&#xf1a7;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-pinterest",
-    "unicode": "[&#xf0d2;]",
+    "unicode": "&#xf0d2;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-pinterest-square",
-    "unicode": "[&#xf0d3;]",
+    "unicode": "&#xf0d3;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-plane",
-    "unicode": "[&#xf072;]",
+    "unicode": "&#xf072;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-play",
-    "unicode": "[&#xf04b;]",
+    "unicode": "&#xf04b;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-play-circle",
-    "unicode": "[&#xf144;]",
+    "unicode": "&#xf144;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-play-circle-o",
-    "unicode": "[&#xf01d;]",
+    "unicode": "&#xf01d;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-plus",
-    "unicode": "[&#xf067;]",
+    "unicode": "&#xf067;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-plus-circle",
-    "unicode": "[&#xf055;]",
+    "unicode": "&#xf055;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-plus-square",
-    "unicode": "[&#xf0fe;]",
+    "unicode": "&#xf0fe;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-plus-square-o",
-    "unicode": "[&#xf196;]",
+    "unicode": "&#xf196;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-power-off",
-    "unicode": "[&#xf011;]",
+    "unicode": "&#xf011;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-print",
-    "unicode": "[&#xf02f;]",
+    "unicode": "&#xf02f;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-puzzle-piece",
-    "unicode": "[&#xf12e;]",
+    "unicode": "&#xf12e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-qq",
-    "unicode": "[&#xf1d6;]",
+    "unicode": "&#xf1d6;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-qrcode",
-    "unicode": "[&#xf029;]",
+    "unicode": "&#xf029;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-question",
-    "unicode": "[&#xf128;]",
+    "unicode": "&#xf128;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-question-circle",
-    "unicode": "[&#xf059;]",
+    "unicode": "&#xf059;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-quote-left",
-    "unicode": "[&#xf10d;]",
+    "unicode": "&#xf10d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-quote-right",
-    "unicode": "[&#xf10e;]",
+    "unicode": "&#xf10e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-ra",
-    "unicode": "[&#xf1d0;]",
+    "unicode": "&#xf1d0;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-random",
-    "unicode": "[&#xf074;]",
+    "unicode": "&#xf074;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-rebel",
-    "unicode": "[&#xf1d0;]",
+    "unicode": "&#xf1d0;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-recycle",
-    "unicode": "[&#xf1b8;]",
+    "unicode": "&#xf1b8;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-reddit",
-    "unicode": "[&#xf1a1;]",
+    "unicode": "&#xf1a1;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-reddit-square",
-    "unicode": "[&#xf1a2;]",
+    "unicode": "&#xf1a2;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-refresh",
-    "unicode": "[&#xf021;]",
+    "unicode": "&#xf021;",
     "active": true,
-    "category": "x"
+    "category": "WebApp",
+    "tags": [
+      "Spinner"
+    ]
   },
   {
     "char": "",
     "class": "fa-renren",
-    "unicode": "[&#xf18b;]",
+    "unicode": "&#xf18b;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-reorder",
-    "unicode": "[&#xf0c9;]",
+    "unicode": "&#xf0c9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-repeat",
-    "unicode": "[&#xf01e;]",
+    "unicode": "&#xf01e;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-reply",
-    "unicode": "[&#xf112;]",
+    "unicode": "&#xf112;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-reply-all",
-    "unicode": "[&#xf122;]",
+    "unicode": "&#xf122;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-retweet",
-    "unicode": "[&#xf079;]",
+    "unicode": "&#xf079;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-rmb",
-    "unicode": "[&#xf157;]",
+    "unicode": "&#xf157;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-road",
-    "unicode": "[&#xf018;]",
+    "unicode": "&#xf018;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-rocket",
-    "unicode": "[&#xf135;]",
+    "unicode": "&#xf135;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-rotate-left",
-    "unicode": "[&#xf0e2;]",
+    "unicode": "&#xf0e2;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-rotate-right",
-    "unicode": "[&#xf01e;]",
+    "unicode": "&#xf01e;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-rouble",
-    "unicode": "[&#xf158;]",
+    "unicode": "&#xf158;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-rss",
-    "unicode": "[&#xf09e;]",
+    "unicode": "&#xf09e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-rss-square",
-    "unicode": "[&#xf143;]",
+    "unicode": "&#xf143;",
     "active": true,
-    "category": "x"
-  },
-  {
-    "char": "",
-    "class": "fa-rub",
-    "unicode": "[&#xf158;]",
-    "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-ruble",
-    "unicode": "[&#xf158;]",
+    "unicode": "&#xf158;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-rupee",
-    "unicode": "[&#xf156;]",
+    "unicode": "&#xf156;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-save",
-    "unicode": "[&#xf0c7;]",
+    "unicode": "&#xf0c7;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-scissors",
-    "unicode": "[&#xf0c4;]",
+    "unicode": "&#xf0c4;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-search",
-    "unicode": "[&#xf002;]",
+    "unicode": "&#xf002;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-search-minus",
-    "unicode": "[&#xf010;]",
+    "unicode": "&#xf010;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-search-plus",
-    "unicode": "[&#xf00e;]",
+    "unicode": "&#xf00e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-send",
-    "unicode": "[&#xf1d8;]",
+    "unicode": "&#xf1d8;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-send-o",
-    "unicode": "[&#xf1d9;]",
+    "unicode": "&#xf1d9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-share",
-    "unicode": "[&#xf064;]",
+    "unicode": "&#xf064;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-share-alt",
-    "unicode": "[&#xf1e0;]",
+    "unicode": "&#xf1e0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-share-alt-square",
-    "unicode": "[&#xf1e1;]",
+    "unicode": "&#xf1e1;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-share-square",
-    "unicode": "[&#xf14d;]",
+    "unicode": "&#xf14d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-share-square-o",
-    "unicode": "[&#xf045;]",
+    "unicode": "&#xf045;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-shield",
-    "unicode": "[&#xf132;]",
+    "unicode": "&#xf132;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-shopping-cart",
-    "unicode": "[&#xf07a;]",
+    "unicode": "&#xf07a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sign-in",
-    "unicode": "[&#xf090;]",
+    "unicode": "&#xf090;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sign-out",
-    "unicode": "[&#xf08b;]",
+    "unicode": "&#xf08b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-signal",
-    "unicode": "[&#xf012;]",
+    "unicode": "&#xf012;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sitemap",
-    "unicode": "[&#xf0e8;]",
+    "unicode": "&#xf0e8;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-skype",
-    "unicode": "[&#xf17e;]",
+    "unicode": "&#xf17e;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-slack",
-    "unicode": "[&#xf198;]",
+    "unicode": "&#xf198;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-sliders",
-    "unicode": "[&#xf1de;]",
+    "unicode": "&#xf1de;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-smile-o",
-    "unicode": "[&#xf118;]",
+    "unicode": "&#xf118;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort",
-    "unicode": "[&#xf0dc;]",
+    "unicode": "&#xf0dc;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-alpha-asc",
-    "unicode": "[&#xf15d;]",
+    "unicode": "&#xf15d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-alpha-desc",
-    "unicode": "[&#xf15e;]",
+    "unicode": "&#xf15e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-amount-asc",
-    "unicode": "[&#xf160;]",
+    "unicode": "&#xf160;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-amount-desc",
-    "unicode": "[&#xf161;]",
+    "unicode": "&#xf161;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-asc",
-    "unicode": "[&#xf0de;]",
+    "unicode": "&#xf0de;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-desc",
-    "unicode": "[&#xf0dd;]",
+    "unicode": "&#xf0dd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-down",
-    "unicode": "[&#xf0dd;]",
+    "unicode": "&#xf0dd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-numeric-asc",
-    "unicode": "[&#xf162;]",
+    "unicode": "&#xf162;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-numeric-desc",
-    "unicode": "[&#xf163;]",
+    "unicode": "&#xf163;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sort-up",
-    "unicode": "[&#xf0de;]",
+    "unicode": "&#xf0de;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-soundcloud",
-    "unicode": "[&#xf1be;]",
+    "unicode": "&#xf1be;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-space-shuttle",
-    "unicode": "[&#xf197;]",
+    "unicode": "&#xf197;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-spinner",
-    "unicode": "[&#xf110;]",
+    "unicode": "&#xf110;",
     "active": true,
-    "category": "x"
+    "category": "WebApp",
+    "tags": [
+      "Spinner"
+    ]
   },
   {
     "char": "",
     "class": "fa-spoon",
-    "unicode": "[&#xf1b1;]",
+    "unicode": "&#xf1b1;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-spotify",
-    "unicode": "[&#xf1bc;]",
+    "unicode": "&#xf1bc;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-square",
-    "unicode": "[&#xf0c8;]",
+    "unicode": "&#xf0c8;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-square-o",
-    "unicode": "[&#xf096;]",
+    "unicode": "&#xf096;",
     "active": true,
-    "category": "x"
+    "category": "FormControl"
   },
   {
     "char": "",
     "class": "fa-stack-exchange",
-    "unicode": "[&#xf18d;]",
+    "unicode": "&#xf18d;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-stack-overflow",
-    "unicode": "[&#xf16c;]",
+    "unicode": "&#xf16c;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-star",
-    "unicode": "[&#xf005;]",
+    "unicode": "&#xf005;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-star-half",
-    "unicode": "[&#xf089;]",
+    "unicode": "&#xf089;",
     "active": true,
-    "category": "x"
-  },
-  {
-    "char": "",
-    "class": "fa-star-half-empty",
-    "unicode": "[&#xf123;]",
-    "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-star-half-full",
-    "unicode": "[&#xf123;]",
+    "unicode": "&#xf123;",
     "active": true,
-    "category": "x"
-  },
-  {
-    "char": "",
-    "class": "fa-star-half-o",
-    "unicode": "[&#xf123;]",
-    "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-star-o",
-    "unicode": "[&#xf006;]",
+    "unicode": "&#xf006;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-steam",
-    "unicode": "[&#xf1b6;]",
+    "unicode": "&#xf1b6;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-steam-square",
-    "unicode": "[&#xf1b7;]",
+    "unicode": "&#xf1b7;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-step-backward",
-    "unicode": "[&#xf048;]",
+    "unicode": "&#xf048;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-step-forward",
-    "unicode": "[&#xf051;]",
+    "unicode": "&#xf051;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-stethoscope",
-    "unicode": "[&#xf0f1;]",
+    "unicode": "&#xf0f1;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-stop",
-    "unicode": "[&#xf04d;]",
+    "unicode": "&#xf04d;",
     "active": true,
-    "category": "x"
+    "category": "VideoPlayer"
   },
   {
     "char": "",
     "class": "fa-strikethrough",
-    "unicode": "[&#xf0cc;]",
+    "unicode": "&#xf0cc;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-stumbleupon",
-    "unicode": "[&#xf1a4;]",
+    "unicode": "&#xf1a4;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-stumbleupon-circle",
-    "unicode": "[&#xf1a3;]",
+    "unicode": "&#xf1a3;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-subscript",
-    "unicode": "[&#xf12c;]",
+    "unicode": "&#xf12c;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-suitcase",
-    "unicode": "[&#xf0f2;]",
+    "unicode": "&#xf0f2;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-sun-o",
-    "unicode": "[&#xf185;]",
+    "unicode": "&#xf185;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-superscript",
-    "unicode": "[&#xf12b;]",
+    "unicode": "&#xf12b;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-support",
-    "unicode": "[&#xf1cd;]",
+    "unicode": "&#xf1cd;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-table",
-    "unicode": "[&#xf0ce;]",
+    "unicode": "&#xf0ce;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-tablet",
-    "unicode": "[&#xf10a;]",
+    "unicode": "&#xf10a;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tachometer",
-    "unicode": "[&#xf0e4;]",
+    "unicode": "&#xf0e4;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tag",
-    "unicode": "[&#xf02b;]",
+    "unicode": "&#xf02b;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tags",
-    "unicode": "[&#xf02c;]",
+    "unicode": "&#xf02c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tasks",
-    "unicode": "[&#xf0ae;]",
+    "unicode": "&#xf0ae;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-taxi",
-    "unicode": "[&#xf1ba;]",
+    "unicode": "&#xf1ba;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tencent-weibo",
-    "unicode": "[&#xf1d5;]",
+    "unicode": "&#xf1d5;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-terminal",
-    "unicode": "[&#xf120;]",
+    "unicode": "&#xf120;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-text-height",
-    "unicode": "[&#xf034;]",
+    "unicode": "&#xf034;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-text-width",
-    "unicode": "[&#xf035;]",
+    "unicode": "&#xf035;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-th",
-    "unicode": "[&#xf00a;]",
+    "unicode": "&#xf00a;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-th-large",
-    "unicode": "[&#xf009;]",
+    "unicode": "&#xf009;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-th-list",
-    "unicode": "[&#xf00b;]",
+    "unicode": "&#xf00b;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-thumb-tack",
-    "unicode": "[&#xf08d;]",
+    "unicode": "&#xf08d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-thumbs-down",
-    "unicode": "[&#xf165;]",
+    "unicode": "&#xf165;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-thumbs-o-down",
-    "unicode": "[&#xf088;]",
+    "unicode": "&#xf088;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-thumbs-o-up",
-    "unicode": "[&#xf087;]",
+    "unicode": "&#xf087;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-thumbs-up",
-    "unicode": "[&#xf164;]",
+    "unicode": "&#xf164;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-ticket",
-    "unicode": "[&#xf145;]",
+    "unicode": "&#xf145;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-times",
-    "unicode": "[&#xf00d;]",
+    "unicode": "&#xf00d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-times-circle",
-    "unicode": "[&#xf057;]",
+    "unicode": "&#xf057;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-times-circle-o",
-    "unicode": "[&#xf05c;]",
+    "unicode": "&#xf05c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tint",
-    "unicode": "[&#xf043;]",
+    "unicode": "&#xf043;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-toggle-down",
-    "unicode": "[&#xf150;]",
+    "unicode": "&#xf150;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-toggle-left",
-    "unicode": "[&#xf191;]",
+    "unicode": "&#xf191;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-toggle-right",
-    "unicode": "[&#xf152;]",
+    "unicode": "&#xf152;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-toggle-up",
-    "unicode": "[&#xf151;]",
+    "unicode": "&#xf151;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-trash-o",
-    "unicode": "[&#xf014;]",
+    "unicode": "&#xf014;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-tree",
-    "unicode": "[&#xf1bb;]",
+    "unicode": "&#xf1bb;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-trello",
-    "unicode": "[&#xf181;]",
+    "unicode": "&#xf181;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-trophy",
-    "unicode": "[&#xf091;]",
+    "unicode": "&#xf091;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-truck",
-    "unicode": "[&#xf0d1;]",
+    "unicode": "&#xf0d1;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-try",
-    "unicode": "[&#xf195;]",
+    "unicode": "&#xf195;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-tumblr",
-    "unicode": "[&#xf173;]",
+    "unicode": "&#xf173;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-tumblr-square",
-    "unicode": "[&#xf174;]",
+    "unicode": "&#xf174;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-turkish-lira",
-    "unicode": "[&#xf195;]",
+    "unicode": "&#xf195;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-twitter",
-    "unicode": "[&#xf099;]",
+    "unicode": "&#xf099;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-twitter-square",
-    "unicode": "[&#xf081;]",
+    "unicode": "&#xf081;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-umbrella",
-    "unicode": "[&#xf0e9;]",
+    "unicode": "&#xf0e9;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-underline",
-    "unicode": "[&#xf0cd;]",
+    "unicode": "&#xf0cd;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-undo",
-    "unicode": "[&#xf0e2;]",
+    "unicode": "&#xf0e2;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-university",
-    "unicode": "[&#xf19c;]",
+    "unicode": "&#xf19c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-unlink",
-    "unicode": "[&#xf127;]",
+    "unicode": "&#xf127;",
     "active": true,
-    "category": "x"
+    "category": "TextEditor"
   },
   {
     "char": "",
     "class": "fa-unlock",
-    "unicode": "[&#xf09c;]",
+    "unicode": "&#xf09c;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-unlock-alt",
-    "unicode": "[&#xf13e;]",
+    "unicode": "&#xf13e;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-unsorted",
-    "unicode": "[&#xf0dc;]",
+    "unicode": "&#xf0dc;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-upload",
-    "unicode": "[&#xf093;]",
+    "unicode": "&#xf093;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-usd",
-    "unicode": "[&#xf155;]",
+    "unicode": "&#xf155;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-user",
-    "unicode": "[&#xf007;]",
+    "unicode": "&#xf007;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-user-md",
-    "unicode": "[&#xf0f0;]",
+    "unicode": "&#xf0f0;",
     "active": true,
-    "category": "x"
+    "category": "Medical"
   },
   {
     "char": "",
     "class": "fa-users",
-    "unicode": "[&#xf0c0;]",
+    "unicode": "&#xf0c0;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-video-camera",
-    "unicode": "[&#xf03d;]",
+    "unicode": "&#xf03d;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-vimeo-square",
-    "unicode": "[&#xf194;]",
+    "unicode": "&#xf194;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-vine",
-    "unicode": "[&#xf1ca;]",
+    "unicode": "&#xf1ca;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-vk",
-    "unicode": "[&#xf189;]",
+    "unicode": "&#xf189;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-volume-down",
-    "unicode": "[&#xf027;]",
+    "unicode": "&#xf027;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-volume-off",
-    "unicode": "[&#xf026;]",
+    "unicode": "&#xf026;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-volume-up",
-    "unicode": "[&#xf028;]",
+    "unicode": "&#xf028;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-warning",
-    "unicode": "[&#xf071;]",
+    "unicode": "&#xf071;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-wechat",
-    "unicode": "[&#xf1d7;]",
+    "unicode": "&#xf1d7;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-weibo",
-    "unicode": "[&#xf18a;]",
+    "unicode": "&#xf18a;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-weixin",
-    "unicode": "[&#xf1d7;]",
+    "unicode": "&#xf1d7;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-wheelchair",
-    "unicode": "[&#xf193;]",
+    "unicode": "&#xf193;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-windows",
-    "unicode": "[&#xf17a;]",
+    "unicode": "&#xf17a;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-won",
-    "unicode": "[&#xf159;]",
+    "unicode": "&#xf159;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-wordpress",
-    "unicode": "[&#xf19a;]",
+    "unicode": "&#xf19a;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-wrench",
-    "unicode": "[&#xf0ad;]",
+    "unicode": "&#xf0ad;",
     "active": true,
-    "category": "x"
+    "category": "WebApp"
   },
   {
     "char": "",
     "class": "fa-xing",
-    "unicode": "[&#xf168;]",
+    "unicode": "&#xf168;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-xing-square",
-    "unicode": "[&#xf169;]",
+    "unicode": "&#xf169;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-yahoo",
-    "unicode": "[&#xf19e;]",
+    "unicode": "&#xf19e;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-yen",
-    "unicode": "[&#xf157;]",
+    "unicode": "&#xf157;",
     "active": true,
-    "category": "x"
+    "category": "Currency"
   },
   {
     "char": "",
     "class": "fa-youtube",
-    "unicode": "[&#xf167;]",
+    "unicode": "&#xf167;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-youtube-play",
-    "unicode": "[&#xf16a;]",
+    "unicode": "&#xf16a;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   },
   {
     "char": "",
     "class": "fa-youtube-square",
-    "unicode": "[&#xf166;]",
+    "unicode": "&#xf166;",
     "active": true,
-    "category": "x"
+    "category": "Brand"
   }
 ]
