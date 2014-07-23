@@ -4,6 +4,28 @@
     <div class="col-sm-12">
       <h1>Change Password</h1>
     </div>
+	  <div class="col-sm-12">
+		  <form class="form" name="avatarform" ng-submit="changeAvatar(avatarform)" novalidate>
+
+			  <div class="form-group">
+				  <label>New Password</label>
+
+				  <input type="text" name="avatar" class="form-control" ng-model="user.avatar"
+				         required/>
+				  <p class="help-block"
+				     ng-show="(form.newPassword.$error.minlength || form.newPassword.$error.required) && (form.newPassword.$dirty || submitted)">
+					  Enter the url of the image
+				  </p>
+			  </div>
+
+			  <p class="help-block"> {{ message }} </p>
+
+			  <button class="btn btn-lg btn-primary" type="submit">Save Avatar</button>
+		  </form>
+	  </div>
+
+
+
     <div class="col-sm-12">
       <form class="form" name="form" ng-submit="changePassword(form)" novalidate>
 

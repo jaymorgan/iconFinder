@@ -4,6 +4,16 @@ angular.module('iconFinderApp')
   .controller('SettingsCtrl', function ($scope, User, Auth) {
     $scope.errors = {};
 
+    $scope.changeAvatar = function(form) {
+      $scope.submitted = true;
+      if(form.$valid) {
+        Auth.changeAvatar( $scope.user.avatar)
+          .then( function() {
+            $scope.message = 'Avatar successfully changed.';
+          });
+      };
+    };
+
     $scope.changePassword = function(form) {
       $scope.submitted = true;
       if(form.$valid) {
@@ -16,6 +26,6 @@ angular.module('iconFinderApp')
           $scope.errors.other = 'Incorrect password';
           $scope.message = '';
         });
-      }
+      };
 		};
   });
