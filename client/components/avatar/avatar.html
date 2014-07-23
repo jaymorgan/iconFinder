@@ -5,13 +5,16 @@
 			<i class="fa avatar-icon fa-cog"></i>
 		</button>
 		<ul class="dropdown-menu" role="menu">
+			<li class="avatar-menu-name">
+				{{ getCurrentUser().name }}
+			</li>
 			<li>
 				<a role="menuitem" tabindex="-1" href="/settings">
 					<i class="fa fa-fw fa-cog"></i> Settings
 				</a>
 			</li>
 			<li>
-				<a role="menuitem" tabindex="-1" href="/settings">
+				<a role="menuitem" tabindex="-1" ng-href="logout()">
 					<i class="fa fa-fw fa-sign-out"></i> Logout
 				</a>
 			</li>
