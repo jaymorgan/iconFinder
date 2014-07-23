@@ -4,6 +4,9 @@
 - Add tags
 - Edit tags
 - Search
-- ngAnimate when searching
-- clear tag filters
-
+- NgAnimate when searching
+- Clear tag filters
+- Fix homepage
+- Style settings page
+- Add avatars to admin screen
+- Edit user roles in Admin screen
