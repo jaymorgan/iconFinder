@@ -1,10 +1,20 @@
 <div>
-	<button class="btn-avatar">
-		<img ng-src="{{ getCurrentUser().avatar }}" alt="igm"/>
-		<i class="fa avatar-icon fa-cog"></i>
-	</button>
-	<!---->
-	<!--<li ng-show="isLoggedIn()" ng-class="{active: isActive('/settings')}"><a href="/settings"><span class="glyphicon glyphicon-cog"></span></a></li>-->
-	<li ng-show="isLoggedIn()" ng-class="{active: isActive('/logout')}"><a href="" ng-click="logout()">Logout</a></li>
-	<!---->
+	<div class="btn-group" dropdown is-open="status.isopen">
+		<button type="button" class="btn-avatar dropdown-toggle" ng-disabled="disabled">
+			<img ng-src="{{ getCurrentUser().avatar }}" alt="igm"/>
+			<i class="fa avatar-icon fa-cog"></i>
+		</button>
+		<ul class="dropdown-menu" role="menu">
+			<li>
+				<a role="menuitem" tabindex="-1" href="/settings">
+					<i class="fa fa-fw fa-cog"></i> Settings
+				</a>
+			</li>
+			<li>
+				<a role="menuitem" tabindex="-1" href="/settings">
+					<i class="fa fa-fw fa-sign-out"></i> Logout
+				</a>
+			</li>
+		</ul>
+	</div>
 </div>
