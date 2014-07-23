@@ -4,7 +4,7 @@
 			<img ng-src="{{ getCurrentUser().avatar }}" alt="igm"/>
 			<i class="fa avatar-icon fa-cog"></i>
 		</button>
-		<ul class="dropdown-menu" role="menu" ng-animate="'animate-menu'">
+		<ul class="dropdown-menu" role="menu">
 			<li class="avatar-menu-name">
 				{{ getCurrentUser().name }}
 			</li>
@@ -14,7 +14,7 @@
 				</a>
 			</li>
 			<li>
-				<a role="menuitem" tabindex="-1" ng-href="logout()">
+				<a role="menuitem" tabindex="-1" ng-click="logout()">
 					<i class="fa fa-fw fa-sign-out"></i> Logout
 				</a>
 			</li>
