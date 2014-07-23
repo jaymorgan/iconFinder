@@ -26,16 +26,18 @@
 
 .open .dropdown-menu {
 	opacity: 1;
+	right: -10px;
 }
 
 avatar .dropdown-menu {
 	position: absolute;
 	top: 0;
-	left: 0;
+	right: -10px;
 	z-index: 1000;
 	display: none;
+	opacity: 0;
 	float: left;
-	min-width: 160px;
+	min-width: 170px;
 	padding: 15px 0;
 	margin: 0px 0 0;
 	list-style: none;
@@ -63,4 +65,34 @@ avatar .dropdown-menu {
 			background-color: rgba(255,255,255,0.5);
 		}
 	}
+}
+
+.animate-menu-enter,
+.animate-menu-leave {
+	transition: 400ms cubic-bezier(0.455, 0.030, 0.515, 0.955) all;
+	position: relative;
+	display: block;
+}
+
+.animate-menu-leave.animate-menu-leave-active,
+.animate-menu-enter {
+	-webkit-transform: rotateX(90deg);
+	-moz-transform: rotateX(90deg);
+	-ms-transform: rotateX(90deg);
+	-o-transform: rotateX(90deg);
+	transform: rotateX(90deg);
+	opacity: 0;
+	height: 30px;
+	display: none;
+}
+
+.animate-menu-enter.animate-menu-enter-active,
+.animate-menu-leave {
+	-webkit-transform: rotateX(0deg);
+	-moz-transform: rotateX(0deg);
+	-ms-transform: rotateX(0deg);
+	-o-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+	opacity: 1;
+	height: 30px;
 }
