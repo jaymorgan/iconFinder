@@ -1,3 +1,26 @@
-<div class="col-md-12">
-This is the icons view.
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-12 icon-container" ng-repeat="category in icons">
+			<div class="category-header">
+				Header
+			</div> <!-- end category-header -->
+				<div class="icon-box" ng-repeat="icon in category">
+					<div class="icon-img">
+
+						<i class="fa fa-fw">{{ icon.char }}</i>
+					</div>
+					<div class="icon-class">
+						{{ icon.class }}
+					</div>
+					<div class="icon-unicode">
+						{{ icon.unicode }}
+					</div>
+					<div class="icon-tags">
+					<span class="icon-tag" ng-repeat="tag in icon.tags">
+						{{ tag }}
+					</span>
+					</div> <!-- end icon-box -->
+				</div>
+		</div>
+	</div>
 </div>

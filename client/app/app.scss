@@ -1,8 +1,10 @@
 $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
 $fa-font-path: "/bower_components/font-awesome/fonts";
 
+@import "bootstrap_overwrites";
 @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 @import 'font-awesome/scss/font-awesome';
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,900|Roboto+Condensed:400,300,700);
 
 /**
  * App-wide Styles
@@ -26,6 +28,7 @@ $fa-font-path: "/bower_components/font-awesome/fonts";
 // injector
 @import 'account/login/login.scss';
 @import 'admin/admin.scss';
+@import 'bootstrap_overwrites.scss';
 @import 'icons/icons.scss';
 @import 'main/main.scss';
 // endinjector
