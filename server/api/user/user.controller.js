@@ -78,6 +78,21 @@ exports.changePassword = function(req, res, next) {
     }
   });
 };
+/**
+ * Change a users Avatar
+ */
+exports.changeAvatar = function(req, res, next) {
+  var userId = req.user._id;
+  var img = String(req.body.avatar);
+
+  User.findById(userId, function (err, user) {
+    user.avatar = img;
+    user.save(function(err) {
+      if (err) return validationError(res, err);
+      res.send(200);
+    });
+  });
+};
 
 /**
  * Get my info
