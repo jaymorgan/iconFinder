@@ -3,6 +3,7 @@
 angular.module('iconFinderApp')
   .controller('SettingsCtrl', function ($scope, User, Auth) {
     $scope.errors = {};
+    $scope.getCurrentUser = Auth.getCurrentUser;
 
     $scope.changeAvatar = function(form) {
       $scope.submitted = true;
