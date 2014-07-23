@@ -6,6 +6,10 @@ $fa-font-path: "/bower_components/font-awesome/fonts";
 @import 'font-awesome/scss/font-awesome';
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,900|Roboto+Condensed:400,300,700);
 
+.navbar{
+	border: 0px;
+}
+
 /**
  * App-wide Styles
  */
@@ -31,4 +35,5 @@ $fa-font-path: "/bower_components/font-awesome/fonts";
 @import 'bootstrap_overwrites.scss';
 @import 'icons/icons.scss';
 @import 'main/main.scss';
+@import 'avatar/avatar.scss';
 // endinjector
