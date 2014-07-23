@@ -2,5 +2,9 @@
 
 angular.module('iconFinderApp')
   .controller('IconsCtrl', ['$scope', 'IconService', function ($scope, IconService) {
-    $scope.icons = IconService.query();
+    IconService.query().$promise.then(function(data) {
+      $scope.icons = _.groupBy(data, function(item) {
+        return item.category;
+      });
+    });
   }]);
