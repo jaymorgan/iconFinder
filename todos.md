@@ -10,3 +10,5 @@
 - Style settings page
 - Add avatars to admin screen
 - Edit user roles in Admin screen
+- Cat nav
+	- affix

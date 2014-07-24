@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('iconFinderApp')
-  .controller('IconsCtrl', ['$scope', 'IconService', function ($scope, IconService) {
+  .controller('IconsCtrl', ['$scope', 'Icon', 'IconCategory', function ($scope, Icon, IconCategory) {
 
     var iconsData = [];
 
@@ -11,7 +11,11 @@ angular.module('iconFinderApp')
       });
     };
 
-    IconService.query().$promise.then(function(data) {
+    IconCategory.query().$promise.then(function(data) {
+    	$scope.iconCategories = data;
+    });
+
+    Icon.query().$promise.then(function(data) {
       iconsData = data;
       $scope.icons = groupIcons(data);
     });
