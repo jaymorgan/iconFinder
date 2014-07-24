@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('iconFinderApp')
-  .controller('IconsCtrl', ['$scope', 'Icon', 'IconCategory', function ($scope, Icon, IconCategory) {
+  .controller('IconsCtrl', ['$scope', '$location', '$anchorScroll',  'Icon', 'IconCategory', function ($scope, $location, $anchorScroll, Icon, IconCategory) {
 
     var iconsData = [];
 
@@ -27,6 +27,11 @@ angular.module('iconFinderApp')
         return _.contains(item.tags, tag);
       });
       $scope.icons = groupIcons(filteredData);
+    };
+
+    $scope.scroll = function(anchor) {
+    	$location.hash(anchor);
+      $anchorScroll();
     };
 
   }]);
