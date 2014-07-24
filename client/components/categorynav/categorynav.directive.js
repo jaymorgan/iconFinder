@@ -5,6 +5,7 @@ angular.module('iconFinderApp')
     return {
       templateUrl: 'components/categorynav/categorynav.html',
       restrict: 'E',
+      replace: true,
       link: function (scope, element, attrs) {
       }
     };
