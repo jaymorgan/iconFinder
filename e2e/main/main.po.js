@@ -6,9 +6,11 @@
 'use strict';
 
 var MainPage = function() {
-  this.heroEl = element(by.css('.hero-unit'));
-  this.h1El = this.heroEl.element(by.css('h1'));
-  this.imgEl = this.heroEl.element(by.css('img'));
+  this.headerEl = element(by.css('.page-header'));
+  this.featuresRepeater = element.all(by.repeater('thing in awesomeThings'));
+  this.inputfield = element(by.model('newThing'));
+  this.thingform = element(by.css('.thing-form'));
+  this.formbutton = element(by.buttonText('Add New'));
 };
 
 module.exports = new MainPage();
