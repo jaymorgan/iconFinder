@@ -1,8 +1,21 @@
 $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
 $fa-font-path: "/bower_components/font-awesome/fonts";
 
+@import "bootstrap_overwrites";
 @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 @import 'font-awesome/scss/font-awesome';
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,900|Roboto+Condensed:400,300,700);
+
+.navbar{
+	border: 0px;
+}
+
+.panel-heading {
+	h1 {
+		margin-top: 10px;
+		color: #5f6979;
+	}
+}
 
 /**
  * App-wide Styles
@@ -25,6 +38,12 @@ $fa-font-path: "/bower_components/font-awesome/fonts";
 // Component styles are injected through grunt
 // injector
 @import 'account/login/login.scss';
+@import 'account/settings/settings.scss';
 @import 'admin/admin.scss';
+@import 'bootstrap_overwrites.scss';
+@import 'icons/icons.scss';
 @import 'main/main.scss';
+@import 'avatar/avatar.scss';
+@import 'categorynav/categorynav.scss';
+@import 'navbar/navbar.scss';
 // endinjector

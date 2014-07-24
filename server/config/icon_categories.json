@@ -1,0 +1,42 @@
+[
+  {
+    "category": "WebApp",
+    "name": "Web Application Icons"
+  },
+  {
+    "category": "FileType",
+    "name": "File Type Icons"
+  },
+  {
+    "category": "Spinner",
+    "name": "Spinner Icons"
+  },
+  {
+    "category": "FormControl",
+    "name": "Form Control Icons"
+  },
+  {
+    "category": "Currency",
+    "name": "Currency Icons"
+  },
+  {
+    "category": "TextEditor",
+    "name": "Text Editor Icons"
+  },
+  {
+    "category": "Directional",
+    "name": "Directional Icons"
+  },
+  {
+    "category": "VideoPlayer",
+    "name": "Video Player Icons"
+  },
+  {
+    "category": "Brand",
+    "name": "Brand Icons"
+  },
+  {
+    "category": "Medical",
+    "name": "Medical Icons"
+  }
+]

@@ -1,0 +1,23 @@
+<category-nav></category-nav>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-12 icon-container" ng-repeat="category in icons">
+			<a id="{{category[0].category}}"></a>
+			<div class="category-header">
+				{{ category[0].category }}
+			</div> <!-- end category-header -->
+				<div class="icon-box" ng-repeat="icon in category">
+					<div class="icon-img"><i class="fa fa-fw">{{ icon.char }}</i></div>
+					<div class="icon-class">{{ icon.class }}</div>
+					<div class="icon-unicode">{{ icon.unicode }}</div>
+					<div class="icon-tags">
+					<button class="btn icon-tag label label-default"
+					        ng-repeat="tag in icon.tags"
+					        ng-click="tagClick(tag)">
+						{{ tag }}
+					</button>
+					</div> <!-- end icon-box -->
+				</div>
+		</div>
+	</div>
+</div>

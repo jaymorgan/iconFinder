@@ -12,6 +12,12 @@ angular.module('iconFinderApp')
           controller:'password'
         }
       },
+      changeAvatar: {
+        method: 'PUT',
+        params: {
+          controller:'avatar'
+        }
+      },
       get: {
         method: 'GET',
         params: {

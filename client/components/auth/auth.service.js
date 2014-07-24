@@ -91,6 +91,24 @@ angular.module('iconFinderApp')
           return cb(err);
         }).$promise;
       },
+      /**
+       * Change Avatar
+       *
+       * @param  {String}   img - url to img
+       * @param  {Function} callback    - optional
+       * @return {Promise}
+       */
+      changeAvatar: function(img, callback) {
+        var cb = callback || angular.noop;
+
+        return User.changeAvatar({ id: currentUser._id }, {
+          avatar: img
+        }, function(user) {
+          return cb(user);
+        }, function(err) {
+          return cb(err);
+        }).$promise;
+      },
 
       /**
        * Gets all available info on authenticated user

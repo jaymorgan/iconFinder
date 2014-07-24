@@ -1,0 +1,6 @@
+<div myaffix class="category-nav">
+	<button class="btn btn-default"
+	        ng-repeat="cat in iconCategories | orderBy:'name'"
+	        ng-click="scroll(cat.category)">{{ cat.category }}</button>
+</div>
+

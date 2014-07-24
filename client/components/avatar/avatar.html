@@ -1,0 +1,23 @@
+<div>
+	<div class="btn-group" dropdown is-open="status.isopen">
+		<button type="button" class="btn-avatar dropdown-toggle" ng-disabled="disabled">
+			<img ng-src="{{ getCurrentUser().avatar }}" alt="Your Avatar"/>
+			<i class="fa avatar-icon fa-cog"></i>
+		</button>
+		<ul class="dropdown-menu" role="menu">
+			<li class="avatar-menu-name">
+				{{ getCurrentUser().name }}
+			</li>
+			<li>
+				<a role="menuitem" tabindex="-1" href="/settings">
+					<i class="fa fa-fw fa-cog"></i> Settings
+				</a>
+			</li>
+			<li>
+				<a role="menuitem" tabindex="-1" href ng-click="logout()">
+					<i class="fa fa-fw fa-sign-out"></i> Logout
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
