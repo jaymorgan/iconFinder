@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('iconFinderApp')
-  .controller('IconsCtrl', ['$scope', 'IconService', function ($scope, IconService) {
+  .controller('IconsCtrl', ['$scope', '$location', '$anchorScroll',  'Icon', 'IconCategory', function ($scope, $location, $anchorScroll, Icon, IconCategory) {
 
     var iconsData = [];
 
@@ -11,7 +11,11 @@ angular.module('iconFinderApp')
       });
     };
 
-    IconService.query().$promise.then(function(data) {
+    IconCategory.query().$promise.then(function(data) {
+    	$scope.iconCategories = data;
+    });
+
+    Icon.query().$promise.then(function(data) {
       iconsData = data;
       $scope.icons = groupIcons(data);
     });
@@ -23,6 +27,11 @@ angular.module('iconFinderApp')
         return _.contains(item.tags, tag);
       });
       $scope.icons = groupIcons(filteredData);
+    };
+
+    $scope.scroll = function(anchor) {
+    	$location.hash(anchor);
+      $anchorScroll();
     };
 
   }]);

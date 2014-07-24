@@ -1,13 +1,13 @@
 'use strict';
 
 angular.module('iconFinderApp')
-  .provider('IconService', function IconService() {
+  .provider('IconCategory', function IconCategory() {
     this.$get = ['$resource', function ($resource) {
-      var Icon = $resource('/api/icons/:id', {}, {
+      var IconCategory = $resource('/api/iconcategories/:id', {}, {
         update: {
           method: 'PUT'
         }
       });
-      return Icon;
+      return IconCategory;
     }];
   });
