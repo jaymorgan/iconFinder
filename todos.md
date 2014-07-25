@@ -13,4 +13,5 @@
 - Cat nav
 	- styling
 
-- Add [sydcanem/bootstrap-contextmenu](https://github.com/sydcanem/bootstrap-contextmenu)
+- Add Contextual Menus [sydcanem/bootstrap-contextmenu](https://github.com/sydcanem/bootstrap-contextmenu)
+- Add Chosen for tags [Chosen: A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes](http://harvesthq.github.io/chosen/)
