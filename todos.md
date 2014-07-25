@@ -11,4 +11,6 @@
 - Add avatars to admin screen
 - Edit user roles in Admin screen
 - Cat nav
-	- affix
+	- styling
+
+- Add [sydcanem/bootstrap-contextmenu](https://github.com/sydcanem/bootstrap-contextmenu)
