@@ -39,4 +39,10 @@ angular.module('iconFinderApp')
       placeholder: 'type tag name'
     };
 
+    $scope.select2Options = {
+      'multiple': true,
+      'simple_tags': true,
+      'tags': ['tag1', 'tag2', 'tag3', 'tag4']  // Can be empty list.
+    };
+
   }]);

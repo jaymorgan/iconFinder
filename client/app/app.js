@@ -8,8 +8,7 @@ angular.module('iconFinderApp', [
   'btford.socket-io',
   'ui.router',
   'ui.bootstrap',
-  'angularjs.bootstrap.tagsinput',
-  'angularjs.bootstrap.tagsinput.template'
+  'ui.select2'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
     $urlRouterProvider
