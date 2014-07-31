@@ -34,4 +34,9 @@ angular.module('iconFinderApp')
       $anchorScroll();
     };
 
+    $scope.tagsProperties = {
+      initTags: ['Poop', 'farts'],
+      placeholder: 'type tag name'
+    };
+
   }]);

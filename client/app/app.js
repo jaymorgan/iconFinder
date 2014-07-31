@@ -7,7 +7,9 @@ angular.module('iconFinderApp', [
   'ngAnimate',
   'btford.socket-io',
   'ui.router',
-  'ui.bootstrap'
+  'ui.bootstrap',
+  'angularjs.bootstrap.tagsinput',
+  'angularjs.bootstrap.tagsinput.template'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
     $urlRouterProvider
