@@ -13,6 +13,7 @@ exports.setup = function (User, config) {
       }, function(err, user) {
         if (!user) {
           user = new User({
+            avatar: profile.picture,
             name: profile.displayName,
             email: profile.emails[0].value,
             role: 'user',
