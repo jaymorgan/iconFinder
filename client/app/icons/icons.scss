@@ -16,13 +16,14 @@
 	text-align: center;
 	.icon-unicode {
 		font-size: 0.8em;
+		color: rgb(150, 159, 171);
 	}
 	.icon-class {
-		font-size: 1.2em;
-		font-weight: 100;
+		font-size: 1.0em;
+		font-weight: 400;
 	}
 	.icon-img {
-		font-size: 2em;
+		font-size: 3em;
 	}
 	.icon-tags {
 		display: flex;
@@ -49,4 +50,8 @@
 	font-family: $font-family-serif;
 	font-weight: 100;
 	font-size: 2em;
+}
+
+.select2-container {
+	width: 300px;
 }
